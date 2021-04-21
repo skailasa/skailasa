@@ -1,4 +1,6 @@
-I’m Computational Mathematics PhD Student at University College London, currently focussed on:
+I’m Computational Mathematics PhD Student at University College London, currently focussed on becoming rusty 🦀.
+
+For the past year or so, I've been working on HPC libraries written fully in Python, taking advantage of the Numba/Numpy/CuPy/Numexpr stack. I released two pieces of software, trying to extract as much performance with Python as possible:
 
 - [PyExaFMM](https://github.com/exafmm/pyexafmm) - a Python library for Fast Multipole Methods.
 - [AdaptOctree](https://github.com/Excalibur-SLE/AdaptOctree) - a Python library for building & balancing linear Octrees
